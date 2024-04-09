@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=205c34&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=456FAE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=205c34&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Mini-PI+Website+🖥️🪐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=456FAE&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Mini-PI+Website+🖥️🪐)](https://git.io/typing-svg)
 
 </br>
 <div>
@@ -45,4 +45,4 @@ O principal propósito deste projeto foi desenvolver um site com a mesma estrutu
  </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=205c34&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=456FAE&height=120&section=footer"/>
