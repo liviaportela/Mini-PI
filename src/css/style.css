@@ -67,3 +67,82 @@ nav > a:link, nav > a:visited {
 nav > a:hover {
 	background-color: #456FAE;
 }
+
+main {
+	min-width: 300px;
+	max-width: 1050px;
+	margin: 35px auto 15px;
+}
+
+article {
+	padding: 0 20px 0;
+}
+
+/* Paragrafos */ 
+main p {
+	color: black;
+	text-align: justify;
+	text-indent: 2em;
+	line-height: 2em;
+	padding-bottom: 20px;
+}
+
+main a {
+	text-decoration: none;
+	color: #052659;
+	font-weight: bolder;
+	padding: 2px;
+}
+
+main a::after {
+	content: "\00a0\1F517";
+}
+
+main a:hover {
+	color: white;
+	background-color: #052659;
+	padding: 2px;
+}
+
+/* Títulos */
+main h1 {
+	color: #052659;
+    font-size: 2em;
+	text-align: center;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.400);
+	font-family: "Poppins", sans-serif;
+	padding: 20px;
+	margin: 0px;
+}
+
+/* Subtitulos */
+main h2 {
+	color: #052659;
+	background-image:  linear-gradient(to right, #79A0D9, transparent);
+	font-family: "Poppins", sans-serif;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
+	border-radius: 10px 0px 0px 10px;
+	padding: 5px 5px 5px 10px;
+	margin: 20px 20px 20px 0px;
+}
+
+img {
+	width: 100%;
+}
+
+.boxVideo {
+    position: relative;
+	background-color: #052659;
+	padding-bottom: 56.25%; 
+    padding-top: 25px;
+	margin: 0px;
+	border-radius: 5px;
+}
+
+.boxVideo iframe {
+    position: absolute;
+    top: 2.5%;
+    left: 5%;
+    width: 90%;
+    height: 95%;
+}
