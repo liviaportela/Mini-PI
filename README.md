@@ -36,8 +36,6 @@ O principal propósito deste projeto foi desenvolver um site com a mesma estrutu
 ![image](https://github.com/liviaportela/Mini-PI/assets/115835353/50459193-9f05-4f9b-8c2b-af31e24c8488)
 
 </div>
-</br>
-
 
 #
 
